@@ -1,0 +1,246 @@
+[
+    {
+        "id": 1,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-1.jpg",
+        "title": "Daniel Raclift",
+        "excerpt": "Mango Fashion Lookbook Campaign",
+        "categories": ["Villas", "Residential"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-2.jpg",
+        "title": "Designer Linocut",
+        "excerpt": "Mango Fashion Lookbook Campaign",
+        "categories": ["Others"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 3,
+        "type": "video",
+        "homeImage": "img/portfolio/portfolio-3.jpg",
+        "videoUrl": "https://www.youtube.com/embed/KzhSW1Ztq1w",
+        "title": "Designer Collagraph",
+        "excerpt": "Mango Fashion Lookbook Campaign",
+        "categories": [],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 4,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-4.jpg",
+        "title": "Designer Engraving",
+        "excerpt": "Mango Fashion Lookbook Campaign",
+        "categories": [],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 5,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-5.jpg",
+        "title": "Working Remotely",
+        "excerpt": "Mango Fashion Lookbook Campaign",
+        "categories": [],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 6,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-7.jpg",
+        "title": "White Paper",
+        "excerpt": "Mango Fashion Lookbook Campaign",
+        "categories": [],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 7,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-8.jpg",
+        "title": "Connect Online",
+        "excerpt": "Mango Fashion Lookbook Campaign",
+        "categories": [],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 8,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-6.jpg",
+        "title": "Dog With Fun",
+        "excerpt": "Mango Fashion Lookbook Campaign",
+        "categories": [],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 9,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-9.jpg",
+        "title": "Salfe Made",
+        "excerpt": "Mango Fashion Lookbook Campaign",
+        "categories": [],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    }
+]

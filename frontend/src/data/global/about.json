@@ -1,0 +1,125 @@
+[
+    {
+        "id": "about me",
+        "title": "Say Hello From Alexis !",
+        "excerpt": "We are a fairly small, flexible design studio that designs for print and web. <br>Alexis works flexibly with clients to fulfil their design needs. Whether you need to create a brand from scratch, including marketing and a beautiful and functional website or whether you are looking for a great experience."
+    },
+    {
+        "id": "about service",
+        "title": "Our Services",
+        "pagelinkText": [
+            "Branding & Strategy",
+            "Web Design & Development",
+            "Packaging Design",
+            "Video & Animation",
+            "Marketing, SEO & Social Media"
+        ]
+    },
+    {
+        "id": "team",
+        "title": "Meet Our Team",
+        "team": [
+            {
+                "id": 5,
+                "classOption": "team-member",
+                "image": "./img/team/05.jpg",
+                "name": "Blanche Fields",
+                "designation": "CEO Founder"
+            },
+            {
+                "id": 6,
+                "classOption": "team-member",
+                "image": "./img/team/06.jpg",
+                "name": "Alex Tuntuni",
+                "designation": "CEO Founder"
+            },
+            {
+                "id": 7,
+                "classOption": "team-member",
+                "image": "./img/team/07.jpg",
+                "name": "Blanche Fields",
+                "designation": "CEO Founder"
+            },
+            {
+                "id": 8,
+                "classOption": "team-member become-member",
+                "image": "./img/team/01.jpg",
+                "name": "Become <br>member in <br>Alexis"
+            }
+        ]
+    },
+    {
+        "id": "blockquote",
+        "excerpt": "I’ve worked with many agencies throughout the world. <br />I’ve found Alexis to be one of those special agencies you wish all the others were like.",
+        "name": "Ellen Krelamine",
+        "designation": "CEO at Drfurion"
+    },
+    {
+        "id": "about gallery",
+        "gallery": {
+            "imageOne": "./img/photos/g-01.jpg",
+            "imageTwo": "./img/photos/g-02.jpg",
+            "imageThree": "./img/photos/g-03.jpg"
+        }
+    },
+    {
+        "id": "Awards",
+        "title": "Awards Achieved",
+        "yearOne": "2017",
+        "yearTwo": "2016",
+        "awardItem": [
+            {
+                "id": 1,
+                "cate": "500px",
+                "title": "Photo Of The Years for <span>Emila</span>"
+            },
+            {
+                "id": 2,
+                "cate": "Unsplash",
+                "title": "Honorable Mention for <span>Listofy Stream Music App</span>"
+            },
+            {
+                "id": 3,
+                "cate": "Pexel",
+                "title": "Gold In Digital Craft for <span>Biford</span>"
+            },
+            {
+                "id": 4,
+                "cate": "500px",
+                "title": "Coporate Social Responsiblity for <span>ABC</span>"
+            },
+            {
+                "id": 5,
+                "cate": "Shutterstocks",
+                "title": "Best Showcase for <span>Gym App</span>"
+            }
+        ]
+    },
+    {
+        "id": "Brand",
+        "title": "Our Clients",
+        "excerpt": "Alexis has been honored to partner up with these clients.",
+        "brand": [
+            {
+                "id": 1,
+                "image": "./img/brand-logo/01.png"
+            },
+            {
+                "id": 2,
+                "image": "./img/brand-logo/01.png"
+            },
+            {
+                "id": 3,
+                "image": "./img/brand-logo/01.png"
+            },
+            {
+                "id": 4,
+                "image": "./img/brand-logo/01.png"
+            },
+            {
+                "id": 5,
+                "image": "./img/brand-logo/01.png"
+            }
+        ]
+    }
+]

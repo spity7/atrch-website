@@ -1,0 +1,17 @@
+[
+    {
+        "slider": [
+            {
+                "id": 1,
+                "backgroundImage": "/img/hero-slider/hero1.jpg",
+                "title": "Vouge Italia Deember Campaign",
+                "subTitle": "inspire 2026",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "buttonText": "Explore now"
+            }
+        ]
+    },
+    {
+        "qute": "Alexis Photography Studio based in Portland, <br /> Oregon. I specialises in shooting liquids and my colourful liquid work, titled “Biford”, has become very well <br /> known and collectable."
+    }
+]

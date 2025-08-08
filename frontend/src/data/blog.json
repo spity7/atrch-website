@@ -1,0 +1,223 @@
+[
+    {
+        "id": 1,
+        "format": "slider",
+        "sliderThumb": [
+            {
+                "id": 1,
+                "thumb": "./img/blog/01.jpg",
+                "image": "./img/blog/post-detail-01.jpg"
+            },
+            {
+                "id": 2,
+                "thumb": "./img/blog/01.jpg",
+                "image": "./img/blog/post-detail-02.jpg"
+            },
+            {
+                "id": 3,
+                "thumb": "./img/blog/01.jpg",
+                "image": "./img/blog/post-detail-03.jpg"
+            },
+            {
+                "id": 4,
+                "thumb": "./img/blog/01.jpg",
+                "image": "./img/blog/post-detail-04.jpg"
+            },
+            {
+                "id": 5,
+                "thumb": "./img/blog/01.jpg",
+                "image": "./img/blog/post-detail-05.jpg"
+            }
+        ],
+        "author": "Admin",
+        "date": "Aug, 24th, 2021",
+        "categories": ["Business", "Life Style"],
+        "title": "The Desolate Beauty  of Greenland",
+        "body": [
+            "<p class='text-block'>Morbi et accumsan est, non convallis metus. Etiam faucibus, leo et scelerisque facilisis, magna erat Tulo dictum nibh, vel congue tortor massa vitae magna.</p>",
+            "<p>Quisque sagittis nisl sit amet nulla rutrum ultrices. Vivamus ut sagittis ligula, sit amet fermentum dolor. Mauris to accumsan neque ut odio tempor semper ac vitae ligula. Morbi viverra tincidunt nisl, eget placerat erat. Morbi ornare mollis quam, sit amet vestibulum erat pharetra vitae:</p>",
+            "<ul><li><i class='icon_stop'></i>Consectetur adipiscing elit vtae elit libero</li><li><i class='icon_stop'></i>Nullam id dolor id eget lacinia odio posuere erat a ante</li><li><i class='icon_stop'></i>Integer posuere erat dapibus posuere velit</li></ul>",
+            "<p class='mb-30'>Nulla sed mi leo, sit amet molestie nulla. Phasellus lobortis blandit ipsum, at adipiscing eros porta quis. Dinter Phasellus in nisi ipsum, quis dapibus magna. <span class='text-theme-color'>@Phasellus odio dolor</span>, pretium sit amet aliquam a, gravida eget un dui. Pellentesque eu dolu ipsum et quam faucibus scelerisque vitae ut ligula.</p>",
+            "<p>Morbi viverra tincidunt nisl, eget placerat erat. Morbi ornare mollis quam, sit amet vestibulum e:</p>"
+        ],
+        "tags": ["Business", "Branding", "Development", "Design"]
+    },
+    {
+        "id": 2,
+        "format": "thumbnail",
+        "media": {
+            "thumb": "./img/blog/v01.jpg",
+            "images": "./img/blog/post-detail-01.jpg"
+        },
+        "author": "Owen Christ",
+        "date": "April, 04th, 2021",
+        "categories": ["Entertaimment", "Technology"],
+        "title": "Favorite Images of 2019:  A Retrospective",
+        "body": [
+            "<p class='text-block'>Morbi et accumsan est, non convallis metus. Etiam faucibus, leo et scelerisque facilisis, magna erat Tulo dictum nibh, vel congue tortor massa vitae magna.</p>",
+            "<p>Quisque sagittis nisl sit amet nulla rutrum ultrices. Vivamus ut sagittis ligula, sit amet fermentum dolor. Mauris to accumsan neque ut odio tempor semper ac vitae ligula. Morbi viverra tincidunt nisl, eget placerat erat. Morbi ornare mollis quam, sit amet vestibulum erat pharetra vitae:</p>",
+            "<ul><li><i class='icon_stop'></i>Consectetur adipiscing elit vtae elit libero</li><li><i class='icon_stop'></i>Nullam id dolor id eget lacinia odio posuere erat a ante</li><li><i class='icon_stop'></i>Integer posuere erat dapibus posuere velit</li></ul>",
+            "<p class='mb-30'>Nulla sed mi leo, sit amet molestie nulla. Phasellus lobortis blandit ipsum, at adipiscing eros porta quis. Dinter Phasellus in nisi ipsum, quis dapibus magna. <span class='text-theme-color'>@Phasellus odio dolor</span>, pretium sit amet aliquam a, gravida eget un dui. Pellentesque eu dolu ipsum et quam faucibus scelerisque vitae ut ligula.</p>",
+            "<p>Morbi viverra tincidunt nisl, eget placerat erat. Morbi ornare mollis quam, sit amet vestibulum e:</p>"
+        ],
+        "tags": ["Business", "Branding", "Development", "Design"]
+    },
+    {
+        "id": 3,
+        "format": "thumbnail",
+        "media": {
+            "thumb": "./img/blog/02.jpg",
+            "images": "./img/blog/post-detail-02.jpg"
+        },
+        "author": "Admin",
+        "date": "May, 3rd, 2021",
+        "categories": ["Other", "Technology"],
+        "title": "Canon EOS R Full Frame Mirrorless Camera",
+        "body": [
+            "<p class='text-block'>Morbi et accumsan est, non convallis metus. Etiam faucibus, leo et scelerisque facilisis, magna erat Tulo dictum nibh, vel congue tortor massa vitae magna.</p>",
+            "<p>Quisque sagittis nisl sit amet nulla rutrum ultrices. Vivamus ut sagittis ligula, sit amet fermentum dolor. Mauris to accumsan neque ut odio tempor semper ac vitae ligula. Morbi viverra tincidunt nisl, eget placerat erat. Morbi ornare mollis quam, sit amet vestibulum erat pharetra vitae:</p>",
+            "<ul><li><i class='icon_stop'></i>Consectetur adipiscing elit vtae elit libero</li><li><i class='icon_stop'></i>Nullam id dolor id eget lacinia odio posuere erat a ante</li><li><i class='icon_stop'></i>Integer posuere erat dapibus posuere velit</li></ul>",
+            "<p class='mb-30'>Nulla sed mi leo, sit amet molestie nulla. Phasellus lobortis blandit ipsum, at adipiscing eros porta quis. Dinter Phasellus in nisi ipsum, quis dapibus magna. <span class='text-theme-color'>@Phasellus odio dolor</span>, pretium sit amet aliquam a, gravida eget un dui. Pellentesque eu dolu ipsum et quam faucibus scelerisque vitae ut ligula.</p>",
+            "<p>Morbi viverra tincidunt nisl, eget placerat erat. Morbi ornare mollis quam, sit amet vestibulum e:</p>"
+        ],
+        "tags": ["Business", "Branding", "Development", "Design"]
+    },
+    {
+        "id": 4,
+        "format": "audio",
+        "audioSrc": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/302046775&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
+        "author": "Owen Christ",
+        "date": "June, 24th, 2021",
+        "categories": ["Business", "Technology"],
+        "title": "The Photographer Platform",
+        "body": [
+            "<p class='text-block'>Morbi et accumsan est, non convallis metus. Etiam faucibus, leo et scelerisque facilisis, magna erat Tulo dictum nibh, vel congue tortor massa vitae magna.</p>",
+            "<p>Quisque sagittis nisl sit amet nulla rutrum ultrices. Vivamus ut sagittis ligula, sit amet fermentum dolor. Mauris to accumsan neque ut odio tempor semper ac vitae ligula. Morbi viverra tincidunt nisl, eget placerat erat. Morbi ornare mollis quam, sit amet vestibulum erat pharetra vitae:</p>",
+            "<ul><li><i class='icon_stop'></i>Consectetur adipiscing elit vtae elit libero</li><li><i class='icon_stop'></i>Nullam id dolor id eget lacinia odio posuere erat a ante</li><li><i class='icon_stop'></i>Integer posuere erat dapibus posuere velit</li></ul>",
+            "<p class='mb-30'>Nulla sed mi leo, sit amet molestie nulla. Phasellus lobortis blandit ipsum, at adipiscing eros porta quis. Dinter Phasellus in nisi ipsum, quis dapibus magna. <span class='text-theme-color'>@Phasellus odio dolor</span>, pretium sit amet aliquam a, gravida eget un dui. Pellentesque eu dolu ipsum et quam faucibus scelerisque vitae ut ligula.</p>",
+            "<p>Morbi viverra tincidunt nisl, eget placerat erat. Morbi ornare mollis quam, sit amet vestibulum e:</p>"
+        ],
+        "tags": ["Business", "Branding", "Development", "Design"]
+    },
+    {
+        "id": 5,
+        "format": "thumbnail",
+        "media": {
+            "thumb": "./img/blog/v02.jpg",
+            "images": "./img/blog/post-detail-03.jpg"
+        },
+        "author": "Admin",
+        "date": "May, 3rd, 2021",
+        "categories": ["Entertaimment", "Other"],
+        "title": "Put title for single blog with image format here",
+        "body": [
+            "<p class='text-block'>Morbi et accumsan est, non convallis metus. Etiam faucibus, leo et scelerisque facilisis, magna erat Tulo dictum nibh, vel congue tortor massa vitae magna.</p>",
+            "<p>Quisque sagittis nisl sit amet nulla rutrum ultrices. Vivamus ut sagittis ligula, sit amet fermentum dolor. Mauris to accumsan neque ut odio tempor semper ac vitae ligula. Morbi viverra tincidunt nisl, eget placerat erat. Morbi ornare mollis quam, sit amet vestibulum erat pharetra vitae:</p>",
+            "<ul><li><i class='icon_stop'></i>Consectetur adipiscing elit vtae elit libero</li><li><i class='icon_stop'></i>Nullam id dolor id eget lacinia odio posuere erat a ante</li><li><i class='icon_stop'></i>Integer posuere erat dapibus posuere velit</li></ul>",
+            "<p class='mb-30'>Nulla sed mi leo, sit amet molestie nulla. Phasellus lobortis blandit ipsum, at adipiscing eros porta quis. Dinter Phasellus in nisi ipsum, quis dapibus magna. <span class='text-theme-color'>@Phasellus odio dolor</span>, pretium sit amet aliquam a, gravida eget un dui. Pellentesque eu dolu ipsum et quam faucibus scelerisque vitae ut ligula.</p>",
+            "<p>Morbi viverra tincidunt nisl, eget placerat erat. Morbi ornare mollis quam, sit amet vestibulum e:</p>"
+        ],
+        "tags": ["Business", "Branding", "Development", "Design"]
+    },
+    {
+        "id": 6,
+        "format": "quote",
+        "quoteContent": "Praesent eu massa vel diam laoreet elementum ac sed felis. Donec suscipit ultricies risus sed mollis. Donec volutpat porta risus posuere imperdiet.",
+        "media": {
+            "thumb": "./img/blog/bg01.jpg",
+            "images": "./img/blog/post-detail-04.jpg"
+        },
+        "author": "Jhon Due",
+        "date": "May, 3rd, 2021",
+        "categories": ["Life Style", "Technology"],
+        "title": "The Desolate Beauty of  Greenland",
+        "body": [
+            "<p class='text-block'>Morbi et accumsan est, non convallis metus. Etiam faucibus, leo et scelerisque facilisis, magna erat Tulo dictum nibh, vel congue tortor massa vitae magna.</p>",
+            "<p>Quisque sagittis nisl sit amet nulla rutrum ultrices. Vivamus ut sagittis ligula, sit amet fermentum dolor. Mauris to accumsan neque ut odio tempor semper ac vitae ligula. Morbi viverra tincidunt nisl, eget placerat erat. Morbi ornare mollis quam, sit amet vestibulum erat pharetra vitae:</p>",
+            "<ul><li><i class='icon_stop'></i>Consectetur adipiscing elit vtae elit libero</li><li><i class='icon_stop'></i>Nullam id dolor id eget lacinia odio posuere erat a ante</li><li><i class='icon_stop'></i>Integer posuere erat dapibus posuere velit</li></ul>",
+            "<p class='mb-30'>Nulla sed mi leo, sit amet molestie nulla. Phasellus lobortis blandit ipsum, at adipiscing eros porta quis. Dinter Phasellus in nisi ipsum, quis dapibus magna. <span class='text-theme-color'>@Phasellus odio dolor</span>, pretium sit amet aliquam a, gravida eget un dui. Pellentesque eu dolu ipsum et quam faucibus scelerisque vitae ut ligula.</p>",
+            "<p>Morbi viverra tincidunt nisl, eget placerat erat. Morbi ornare mollis quam, sit amet vestibulum e:</p>"
+        ],
+        "tags": ["Business", "Branding", "Development", "Design"]
+    },
+    {
+        "id": 7,
+        "format": "thumbnail",
+        "media": {
+            "thumb": "./img/blog/v03.jpg",
+            "images": "./img/blog/post-detail-05.jpg"
+        },
+        "author": "Admin",
+        "date": "Aug, 24th, 2021",
+        "categories": ["Business", "Life Style"],
+        "title": "Tellus Adipiscing Nibh Mattis",
+        "body": [
+            "<p class='text-block'>Morbi et accumsan est, non convallis metus. Etiam faucibus, leo et scelerisque facilisis, magna erat Tulo dictum nibh, vel congue tortor massa vitae magna.</p>",
+            "<p>Quisque sagittis nisl sit amet nulla rutrum ultrices. Vivamus ut sagittis ligula, sit amet fermentum dolor. Mauris to accumsan neque ut odio tempor semper ac vitae ligula. Morbi viverra tincidunt nisl, eget placerat erat. Morbi ornare mollis quam, sit amet vestibulum erat pharetra vitae:</p>",
+            "<ul><li><i class='icon_stop'></i>Consectetur adipiscing elit vtae elit libero</li><li><i class='icon_stop'></i>Nullam id dolor id eget lacinia odio posuere erat a ante</li><li><i class='icon_stop'></i>Integer posuere erat dapibus posuere velit</li></ul>",
+            "<p class='mb-30'>Nulla sed mi leo, sit amet molestie nulla. Phasellus lobortis blandit ipsum, at adipiscing eros porta quis. Dinter Phasellus in nisi ipsum, quis dapibus magna. <span class='text-theme-color'>@Phasellus odio dolor</span>, pretium sit amet aliquam a, gravida eget un dui. Pellentesque eu dolu ipsum et quam faucibus scelerisque vitae ut ligula.</p>",
+            "<p>Morbi viverra tincidunt nisl, eget placerat erat. Morbi ornare mollis quam, sit amet vestibulum e:</p>"
+        ],
+        "tags": ["Business", "Branding", "Development", "Design"]
+    },
+    {
+        "id": 8,
+        "format": "thumbnail",
+        "media": {
+            "thumb": "./img/blog/03.jpg",
+            "images": "./img/blog/post-detail-01.jpg"
+        },
+        "author": "Jhon Due",
+        "date": "Aug, 24th, 2021",
+        "categories": ["Entertaimment", "Other"],
+        "title": "Fusce Mattis Euismod Ridiculus Tortor",
+        "body": [
+            "<p class='text-block'>Morbi et accumsan est, non convallis metus. Etiam faucibus, leo et scelerisque facilisis, magna erat Tulo dictum nibh, vel congue tortor massa vitae magna.</p>",
+            "<p>Quisque sagittis nisl sit amet nulla rutrum ultrices. Vivamus ut sagittis ligula, sit amet fermentum dolor. Mauris to accumsan neque ut odio tempor semper ac vitae ligula. Morbi viverra tincidunt nisl, eget placerat erat. Morbi ornare mollis quam, sit amet vestibulum erat pharetra vitae:</p>",
+            "<ul><li><i class='icon_stop'></i>Consectetur adipiscing elit vtae elit libero</li><li><i class='icon_stop'></i>Nullam id dolor id eget lacinia odio posuere erat a ante</li><li><i class='icon_stop'></i>Integer posuere erat dapibus posuere velit</li></ul>",
+            "<p class='mb-30'>Nulla sed mi leo, sit amet molestie nulla. Phasellus lobortis blandit ipsum, at adipiscing eros porta quis. Dinter Phasellus in nisi ipsum, quis dapibus magna. <span class='text-theme-color'>@Phasellus odio dolor</span>, pretium sit amet aliquam a, gravida eget un dui. Pellentesque eu dolu ipsum et quam faucibus scelerisque vitae ut ligula.</p>",
+            "<p>Morbi viverra tincidunt nisl, eget placerat erat. Morbi ornare mollis quam, sit amet vestibulum e:</p>"
+        ],
+        "tags": ["Business", "Branding", "Development", "Design"]
+    },
+    {
+        "id": 9,
+        "format": "thumbnail",
+        "media": {
+            "thumb": "./img/blog/v04.jpg",
+            "images": "./img/blog/post-detail-02.jpg"
+        },
+        "author": "Owen Christ",
+        "date": "May, 3rd, 2021",
+        "categories": ["Technology", "Other"],
+        "title": "Put title for single blog with image format here",
+        "body": [
+            "<p class='text-block'>Morbi et accumsan est, non convallis metus. Etiam faucibus, leo et scelerisque facilisis, magna erat Tulo dictum nibh, vel congue tortor massa vitae magna.</p>",
+            "<p>Quisque sagittis nisl sit amet nulla rutrum ultrices. Vivamus ut sagittis ligula, sit amet fermentum dolor. Mauris to accumsan neque ut odio tempor semper ac vitae ligula. Morbi viverra tincidunt nisl, eget placerat erat. Morbi ornare mollis quam, sit amet vestibulum erat pharetra vitae:</p>",
+            "<ul><li><i class='icon_stop'></i>Consectetur adipiscing elit vtae elit libero</li><li><i class='icon_stop'></i>Nullam id dolor id eget lacinia odio posuere erat a ante</li><li><i class='icon_stop'></i>Integer posuere erat dapibus posuere velit</li></ul>",
+            "<p class='mb-30'>Nulla sed mi leo, sit amet molestie nulla. Phasellus lobortis blandit ipsum, at adipiscing eros porta quis. Dinter Phasellus in nisi ipsum, quis dapibus magna. <span class='text-theme-color'>@Phasellus odio dolor</span>, pretium sit amet aliquam a, gravida eget un dui. Pellentesque eu dolu ipsum et quam faucibus scelerisque vitae ut ligula.</p>",
+            "<p>Morbi viverra tincidunt nisl, eget placerat erat. Morbi ornare mollis quam, sit amet vestibulum e:</p>"
+        ],
+        "tags": ["Business", "Branding", "Development", "Design"]
+    },
+    {
+        "id": 10,
+        "format": "noThumb",
+        "media": {
+            "thumb": "./img/blog/01.jpg",
+            "images": "./img/blog/post-detail-03.jpg"
+        },
+        "author": "Admin",
+        "date": "Aug, 24th, 2021",
+        "categories": ["Life Style", "Technology"],
+        "title": "Tellus Vulputate Fermentum Dolor",
+        "body": [
+            "<p class='text-block'>Morbi et accumsan est, non convallis metus. Etiam faucibus, leo et scelerisque facilisis, magna erat Tulo dictum nibh, vel congue tortor massa vitae magna.</p>",
+            "<p>Quisque sagittis nisl sit amet nulla rutrum ultrices. Vivamus ut sagittis ligula, sit amet fermentum dolor. Mauris to accumsan neque ut odio tempor semper ac vitae ligula. Morbi viverra tincidunt nisl, eget placerat erat. Morbi ornare mollis quam, sit amet vestibulum erat pharetra vitae:</p>",
+            "<ul><li><i class='icon_stop'></i>Consectetur adipiscing elit vtae elit libero</li><li><i class='icon_stop'></i>Nullam id dolor id eget lacinia odio posuere erat a ante</li><li><i class='icon_stop'></i>Integer posuere erat dapibus posuere velit</li></ul>",
+            "<p class='mb-30'>Nulla sed mi leo, sit amet molestie nulla. Phasellus lobortis blandit ipsum, at adipiscing eros porta quis. Dinter Phasellus in nisi ipsum, quis dapibus magna. <span class='text-theme-color'>@Phasellus odio dolor</span>, pretium sit amet aliquam a, gravida eget un dui. Pellentesque eu dolu ipsum et quam faucibus scelerisque vitae ut ligula.</p>",
+            "<p>Morbi viverra tincidunt nisl, eget placerat erat. Morbi ornare mollis quam, sit amet vestibulum e:</p>"
+        ],
+        "tags": ["Business", "Branding", "Development", "Design"]
+    }
+]

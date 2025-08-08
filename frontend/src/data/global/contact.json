@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "delay": "300",
+        "title": "Contact Directly",
+        "icon": "icon_mail_alt",
+        "info": "<a href='mailto:demo@example.com'>atrchstudio@gmail.com</a><br /><a href='tel:0123456789'>+961 71 601 751</a><a>Instagram: ahmadAltrch</a>"
+    },
+    {
+        "id": 2,
+        "aos-delay": "600",
+        "title": "Visit our office",
+        "icon": "icon_pin_alt",
+        "info": "<a href='mailto:demo@example.com'>atrchstudio@gmail.com</a><br /><a href='tel:0123456789'>+961 71 601 751</a><a>Instagram: ahmadAltrch</a>"
+    }
+]
