@@ -3,7 +3,6 @@ const logger = require("../config/logger.js");
 
 const db = async () => {
   try {
-    
     const mongoURI = process.env.MONGO_URL;
     if (!mongoURI) {
       throw new Error("MONGO_URL is not set! Make sure your .env file exists.");

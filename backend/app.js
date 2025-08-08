@@ -8,6 +8,7 @@ const rateLimiter = require("./middlewares/rateLimiter");
 const securityHeaders = require("./middlewares/securityHeaders");
 const csp = require("./middlewares/csp");
 const userRoutes = require("./routes/userRoutes");
+const propertyRoutes = require("./routes/propertyRoutes");
 const logger = require("./config/logger");
 require("./cron/cron");
 
@@ -17,10 +18,16 @@ const app = express();
 const PORT = process.env.PORT;
 
 // Middlewares
-app.use(express.json());
+app.use(express.json({ limit: "10mb" }));
+app.use(express.urlencoded({ extended: true, limit: "10mb" }));
 app.use(
   cors({
-    origin: "http://localhost:3000",
+    origin: [
+      "http://localhost:3000",
+      "https://milaresidence.com",
+      "https://mila-react.onrender.com",
+      "https://api.milaresidence.com",
+    ],
     methods: ["GET", "POST", "PUT", "DELETE"],
     allowedHeaders: [
       "Content-Type",
@@ -43,6 +50,7 @@ app.use(securityHeaders);
 
 // Routes
 app.use("/api/v1", userRoutes);
+app.use("/api/v1", propertyRoutes);
 
 // errorhandling for Middleware
 app.use((err, req, res, next) => {

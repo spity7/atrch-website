@@ -29,7 +29,7 @@ const sendVerificationEmail = async (user) => {
   user.verificationTokenExpiry = verificationTokenExpiry;
   await user.save();
 
-  const verificationUrl = `http://localhost:${process.env.PORT}/api/v1/verify-email?token=${verificationToken}`;
+  const verificationUrl = `${process.env.BASE_URL}/api/v1/verify-email?token=${verificationToken}`;
 
   const emailHtml = `
   <div style="font-family: Arial, sans-serif; text-align: center; padding: 20px; background: #f8f9fa; border-radius: 10px; width: 400px; margin: auto;">
