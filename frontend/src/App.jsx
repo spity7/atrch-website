@@ -25,6 +25,7 @@ import BlogDate from "./templates/blog-date";
 import BlogDetails from "./templates/blog-details";
 import BlogTag from "./templates/blog-tag";
 import PortfolioDetails from "./templates/portfolio-details";
+import AuthPage from "./pages/auth/AuthPage";
 
 const App = () => {
     useEffect(() => {
@@ -49,7 +50,7 @@ const App = () => {
                         path={`${process.env.PUBLIC_URL + "/about"}`}
                         component={AboutPage}
                     />
-                    <Route
+                    {/* <Route
                         path={`${process.env.PUBLIC_URL + "/portfolio"}`}
                         component={Portfolio}
                     />
@@ -86,10 +87,14 @@ const App = () => {
                     <Route
                         path={`${process.env.PUBLIC_URL + "/blog-details/:id"}`}
                         component={BlogDetails}
-                    />
+                    /> */}
                     <Route
                         path={`${process.env.PUBLIC_URL + "/contact"}`}
                         component={Contact}
+                    />
+                    <Route
+                        path={`${process.env.PUBLIC_URL + "/auth"}`}
+                        component={<AuthPage />}
                     />
                 </Switch>
             </NavScrollTop>
