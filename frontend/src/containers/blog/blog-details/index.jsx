@@ -1,12 +1,10 @@
 import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
-import SwiperCore, { Pagination } from "swiper";
+import { Pagination } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 import BlogTag from "../../../components/blog/blog-tag";
 import Comment from "../../../components/comment";
 import { slugify } from "../../../utils";
-
-SwiperCore.use([Pagination]);
 
 const BlogDetailsContainer = ({ data }) => {
     const cate = data.categories.map((value, i) => {
@@ -31,6 +29,7 @@ const BlogDetailsContainer = ({ data }) => {
                             spaceBetween={0}
                             slidesPerView={1}
                             loop
+                            modules={[Pagination]}
                             pagination={{ clickable: true }}
                         >
                             {data.sliderThumb &&

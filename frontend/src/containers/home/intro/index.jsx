@@ -1,12 +1,11 @@
 import React from "react";
-import SwiperCore, { Pagination } from "swiper";
+import { Pagination } from "swiper/modules";
 import "swiper/components/navigation/navigation.scss";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/swiper.scss";
 import Intro from "../../../components/intro/index";
 import HomeData from "../../../data/home.json";
 
-SwiperCore.use([Pagination]);
 const IntroContainer = () => {
     // const swiperOption = {
     //     loop: true,
@@ -21,7 +20,12 @@ const IntroContainer = () => {
     // };
     return (
         <div className="intro-slider-wrap">
-            <Swiper effect="fade" className="intro-slider">
+            <Swiper
+                effect="fade"
+                className="intro-slider"
+                modules={[Pagination]}
+                pagination={{ clickable: true }}
+            >
                 {HomeData[0].slider &&
                     HomeData[0].slider.map((single, key) => {
                         return (

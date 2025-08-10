@@ -1,10 +1,8 @@
 import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
-import SwiperCore, { Autoplay } from "swiper";
+import { Autoplay } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { slugify } from "../../../utils";
-
-SwiperCore.use([Autoplay]);
 
 const BlogItem = ({ data }) => {
     const cate = data.categories.map((value, i) => {
@@ -30,6 +28,7 @@ const BlogItem = ({ data }) => {
                         slidesPerView={1}
                         loop
                         autoplay
+                        modules={[Autoplay]}
                     >
                         {data.sliderThumb &&
                             data.sliderThumb.map((single, key) => {
